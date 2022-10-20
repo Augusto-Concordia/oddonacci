@@ -1,0 +1,140 @@
+---------------------
+
+For Oddonacci #5: 
+CachedTrinaryOddonacci took 0M 0S 0.017101MS, with result: 5
+LinearOddonacci took 0M 0S 0.005101MS, with result: 5
+TailOddonacci took 0M 0S 0.0042MS, with result: 5
+
+---------------------
+
+For Oddonacci #10: 
+CachedTrinaryOddonacci took 0M 0S 0.0135MS, with result: 105
+LinearOddonacci took 0M 0S 0.0023MS, with result: 105
+TailOddonacci took 0M 0S 0.001299MS, with result: 105
+
+---------------------
+
+For Oddonacci #15: 
+CachedTrinaryOddonacci took 0M 0S 0.0235MS, with result: 2209
+LinearOddonacci took 0M 0S 0.002301MS, with result: 2209
+TailOddonacci took 0M 0S 9.0E-4MS, with result: 2209
+
+---------------------
+
+For Oddonacci #20: 
+CachedTrinaryOddonacci took 0M 0S 0.0306MS, with result: 46499
+LinearOddonacci took 0M 0S 0.002901MS, with result: 46499
+TailOddonacci took 0M 0S 0.0011MS, with result: 46499
+
+---------------------
+
+For Oddonacci #25: 
+CachedTrinaryOddonacci took 0M 0S 0.054MS, with result: 978793
+LinearOddonacci took 0M 0S 0.005599MS, with result: 978793
+TailOddonacci took 0M 0S 0.0024MS, with result: 978793
+
+---------------------
+
+For Oddonacci #30: 
+CachedTrinaryOddonacci took 0M 0S 0.056601MS, with result: 20603361
+LinearOddonacci took 0M 0S 0.010401MS, with result: 20603361
+TailOddonacci took 0M 0S 0.002299MS, with result: 20603361
+
+---------------------
+
+For Oddonacci #35: 
+CachedTrinaryOddonacci took 0M 0S 0.0407MS, with result: 433695873
+LinearOddonacci took 0M 0S 0.0067MS, with result: 433695873
+TailOddonacci took 0M 0S 0.0027MS, with result: 433695873
+
+---------------------
+
+For Oddonacci #40: 
+CachedTrinaryOddonacci took 0M 0S 0.0459MS, with result: 9129195487
+LinearOddonacci took 0M 0S 0.0088MS, with result: 9129195487
+TailOddonacci took 0M 0S 0.004299MS, with result: 9129195487
+
+---------------------
+
+For Oddonacci #45: 
+CachedTrinaryOddonacci took 0M 0S 0.0708MS, with result: 192167404461
+LinearOddonacci took 0M 0S 0.041599MS, with result: 192167404461
+TailOddonacci took 0M 0S 0.0023MS, with result: 192167404461
+
+---------------------
+
+For Oddonacci #50: 
+CachedTrinaryOddonacci took 0M 0S 0.0347MS, with result: 4045078385041
+LinearOddonacci took 0M 0S 0.0091MS, with result: 4045078385041
+TailOddonacci took 0M 0S 0.0023MS, with result: 4045078385041
+
+---------------------
+
+For Oddonacci #55: 
+CachedTrinaryOddonacci took 0M 0S 0.0183MS, with result: 85147942685809
+LinearOddonacci took 0M 0S 0.057599MS, with result: 85147942685809
+TailOddonacci took 0M 0S 0.0076MS, with result: 85147942685809
+
+---------------------
+
+For Oddonacci #60: 
+CachedTrinaryOddonacci took 0M 0S 0.031MS, with result: 1792344042191491
+LinearOddonacci took 0M 0S 0.014899MS, with result: 1792344042191491
+TailOddonacci took 0M 0S 0.003MS, with result: 1792344042191491
+
+---------------------
+
+For Oddonacci #65: 
+CachedTrinaryOddonacci took 0M 0S 0.029401MS, with result: 37728417907092161
+LinearOddonacci took 0M 0S 9.0E-4MS, with result: 37728417907092161
+TailOddonacci took 0M 0S 0.0033MS, with result: 37728417907092161
+
+---------------------
+
+For Oddonacci #70: 
+CachedTrinaryOddonacci took 0M 0S 0.0177MS, with result: 794174268033812681
+LinearOddonacci took 0M 0S 0.0028MS, with result: 794174268033812681
+TailOddonacci took 0M 0S 0.004601MS, with result: 794174268033812681
+
+---------------------
+
+For Oddonacci #75: 
+CachedTrinaryOddonacci took 0M 0S 0.032899MS, with result: -1729563683050201663
+LinearOddonacci took 0M 0S 0.012299MS, with result: -1729563683050201663
+TailOddonacci took 0M 0S 0.001501MS, with result: -1729563683050201663
+
+---------------------
+
+For Oddonacci #80: 
+CachedTrinaryOddonacci took 0M 0S 0.0522MS, with result: 1404553489305773151
+LinearOddonacci took 0M 0S 0.005199MS, with result: 1404553489305773151
+TailOddonacci took 0M 0S 0.001MS, with result: 1404553489305773151
+
+---------------------
+
+For Oddonacci #85: 
+CachedTrinaryOddonacci took 0M 0S 0.033099MS, with result: -8333254287014256043
+LinearOddonacci took 0M 0S 0.0048MS, with result: -8333254287014256043
+TailOddonacci took 0M 0S 0.001MS, with result: -8333254287014256043
+
+---------------------
+
+For Oddonacci #90: 
+CachedTrinaryOddonacci took 0M 0S 0.037201MS, with result: 9144090516051710745
+LinearOddonacci took 0M 0S 0.0069MS, with result: 9144090516051710745
+TailOddonacci took 0M 0S 0.001099MS, with result: 9144090516051710745
+
+---------------------
+
+For Oddonacci #95: 
+CachedTrinaryOddonacci took 0M 0S 0.0651MS, with result: 629759302281926593
+LinearOddonacci took 0M 0S 0.005999MS, with result: 629759302281926593
+TailOddonacci took 0M 0S 8.0E-4MS, with result: 629759302281926593
+
+---------------------
+
+For Oddonacci #100: 
+CachedTrinaryOddonacci took 0M 0S 0.0309MS, with result: -4410962496751638461
+LinearOddonacci took 0M 0S 0.004601MS, with result: -4410962496751638461
+TailOddonacci took 0M 0S 7.0E-4MS, with result: -4410962496751638461
+
